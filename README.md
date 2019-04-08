@@ -10,8 +10,8 @@ This first method is taken directly from [one of Matt's videos](https://www.yout
 
 ### 2. Monte Carlo
 
-Imagine you have a square with a side of length *l*, and imagine that you have a circle inscribed in that square (therefore of radis *l/2*). What is the chance that a randomly chosen point inside that square is also inside the circle? pi/4. To find pi we can experimentally approximate that probability and then multiply it by 4.
+Imagine you have a square with a side of length *L*, and imagine that you have a circle inscribed in that square (therefore of radis *L/2*). What is the chance that a randomly chosen point inside that square is also inside the circle? pi/4. To find pi we can experimentally approximate that probability and then multiply it by 4.
 
-### 2. Buffon's Needle
+### 3. Buffon's Needle
 
 If you throw many needles at a ruled paper, you can try and estimate PI by counting how many of those needles crossed a line. The needle's length must be no more than the length between the lines of the paper.
